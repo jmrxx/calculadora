@@ -6,4 +6,4 @@
 
 ---
 
-### calculadora hecha con javascript html y css
+### calculadora con javascript html y css
