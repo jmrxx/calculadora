@@ -23,6 +23,7 @@ buttons.map((button) => {
         try {
           screen.innerText = eval(screen.innerText);
         } catch (error) {
+           screen.innerText ="";
           console.error("Ha ocurrido un error:", error);
         }
         
